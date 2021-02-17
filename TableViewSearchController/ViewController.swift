@@ -17,6 +17,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         let player1 = PlayerData(pName: "Kohli", pCountry: "India", pPhoto: "Kohli.jpg")
     }
+    
+    func createUI()
+    {
+        
+    }
 
 
 }
