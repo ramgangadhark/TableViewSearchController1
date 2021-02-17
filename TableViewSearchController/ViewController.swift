@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     var searchedPlayer = [PlayerData]()
     override func viewDidLoad() {
         super.viewDidLoad()
-        let player1 = PlayerData(pName: <#T##String#>, pCountry: <#T##String#>, pPhoto: <#T##String#>)
+        let player1 = PlayerData(pName: "Kohli", pCountry: "India", pPhoto: "Kohli.jpg")
     }
 
 
